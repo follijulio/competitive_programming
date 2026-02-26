@@ -17,7 +17,7 @@ function isTriangle(a, b, c) {
 
 function main() {
   const tests = [
-    // { params: [3, 4, 5], expected: true },
+    { params: [3, 4, 5], expected: true },
     { params: [1, 1, 10], expected: false },
     { params: [5, 5, 5], expected: true },
     { params: [10, 2, 7], expected: false },
