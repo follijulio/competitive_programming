@@ -45,7 +45,7 @@ function main() {
     }
   }
 
-  console.log("✅ All tests passed! O domínio do espaço O(1) continua.");
+  console.log("✅ All tests passed!");
 }
 
 main();

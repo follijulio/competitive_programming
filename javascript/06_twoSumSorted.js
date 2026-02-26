@@ -47,9 +47,7 @@ function main() {
     }
   }
 
-  console.log(
-    "✅ All tests passed! A técnica dos dois ponteiros é sua mais nova arma.",
-  );
+  console.log("✅ All tests passed!");
 }
 
 main();

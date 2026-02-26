@@ -38,7 +38,7 @@ function main() {
   }
 
   console.log(
-    "✅ All tests passed! Complexity O(1) confirmed? Submit your code.",
+    "✅ All tests passed!",
   );
 }
 

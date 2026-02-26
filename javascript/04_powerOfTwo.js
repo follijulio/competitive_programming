@@ -36,7 +36,7 @@ function main() {
   }
 
   console.log(
-    "✅ All tests passed! A manipulação de bits é o idioma das máquinas.",
+    "✅ All tests passed!",
   );
 }
 

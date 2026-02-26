@@ -36,7 +36,7 @@ function main() {
   }
 
   console.log(
-    "✅ All tests passed! Lógica purificada e executada com sucesso.",
+    "✅ All tests passed!",
   );
 }
 

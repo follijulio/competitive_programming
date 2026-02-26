@@ -36,7 +36,7 @@ function main() {
     }
   }
 
-  console.log("✅ All tests passed! O(1) alcançado com sucesso.");
+  console.log("✅ All tests passed!");
 }
 
 main();

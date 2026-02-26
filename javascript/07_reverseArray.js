@@ -63,7 +63,7 @@ function main() {
   }
 
   console.log(
-    "✅ All tests passed! O fundamento dos Dois Ponteiros está consolidado.",
+    "✅ All tests passed!",
   );
 }
 
